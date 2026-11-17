@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/studyhelper/',
+ base: '/Study-Helper/',
   server: {
     port: 3000,
     host: '0.0.0.0'
